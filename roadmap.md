@@ -10,7 +10,7 @@ Este é o roadmap oficial da jornada FullStack de Bruno Miguel Corrêa, guiada e
 
 ### 🧠 Fase 01 – Lógica de Programação (com JavaScript)
 
-- [ ] Aula 01 – Introdução à lógica e ambiente JS
+- [x] Aula 01 – Introdução à lógica e ambiente JS
 - [ ] Aula 02 – Variáveis (`let`, `const`) e tipos primitivos
 - [ ] Aula 03 – Conversão de tipos e coerção
 - [ ] Aula 04 – Operadores aritméticos, lógicos e relacionais
