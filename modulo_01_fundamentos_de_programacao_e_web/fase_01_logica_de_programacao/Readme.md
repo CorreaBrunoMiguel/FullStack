@@ -11,6 +11,6 @@ Nesta fase, vamos estudar os conceitos básicos de lógica usando JavaScript mod
 
 Cada aula terá teoria, quizzes, exercícios e desafios para garantir o aprendizado prático.
 
----
-
 Vamos codar e praticar!
+
+---
