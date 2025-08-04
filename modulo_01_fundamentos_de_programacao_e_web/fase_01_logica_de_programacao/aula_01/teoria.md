@@ -29,7 +29,7 @@ Lógica de programação é o conjunto de passos e raciocínios que permitem res
 
 Para começar a programar em JavaScript, você pode usar:
 
-- **Navegador Web**: Console de desenvolvimento (Chrome DevTools, Firefox DevTools).
+- **Navegador Web**: Console de desenvolvimento (Chrome DevTools, Firefox DevTools). Use tecla F12 no navegadr para abrir console entre outras opções.
 - **Editor de Código**: VS Code (Visual Studio Code) é o mais popular.
 - **Node.js**: Permite executar JavaScript fora do navegador.
 
@@ -47,3 +47,30 @@ Para começar a programar em JavaScript, você pode usar:
 ```js
 console.log('Olá, mundo!');
 ```
+
+- `console.log()` imprime mensagens no console
+- Use para testar seu código e verificar valores.
+
+## 6. Conceitos básicos de lógica em JS
+
+- **Instrução:** um comando que o computador executa.
+- **Sequência:** execução linear das istruções, uma após a outra.
+- **Variáveis:** espaço nomeado para armazenar dados.
+- **Tipos de dados:** números, textos, booleanos, etc.
+- **Comentários:** linhas que explicam o código e são ignoradas na execução.
+
+Exemplo de comentário:
+
+```js
+// Este é um comentário de linha única
+
+/*
+ Comentário
+ de múltiplas 
+ linhas
+ */
+```
+
+## 7. Próximos passos
+
+Nas próximas aulas, estudaremos como trabalhar com variáveis, tipos primitivos e operadores, sempre aplicando lógica de programação usando JavaScript.
