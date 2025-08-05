@@ -15,7 +15,13 @@ Crie três variáveis usando `let` para representar:
   <summary>Ver resposta</summary>
 
 ```js
-let nome = 'Bruno';
+let nome = 'João';
+let idade = 20;
+let matriculado = true;
+
+console.log(nome);
+console.log(idade);
+console.log(matriculado);
 ```
 
 </details>
