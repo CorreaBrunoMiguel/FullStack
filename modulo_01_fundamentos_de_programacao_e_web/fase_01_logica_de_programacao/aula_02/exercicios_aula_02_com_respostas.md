@@ -14,9 +14,17 @@ Crie três variáveis usando `let` para representar:
 <details>
   <summary>Ver resposta</summary>
 
-````js
+```js
 // TODO: declare as variáveis e imprima seus valores no console
-````
+
+let nome = "João";
+let idade = 20;
+let matriculado = true;
+
+console.log(nome);
+console.log(idade);
+console.log(matriculado);
+```
 
 </details>
 
@@ -33,9 +41,14 @@ Tente reatribuir um novo valor a essa constante. Observe o que acontece.
 <details>
   <summary>Ver resposta</summary>
 
-````js
+```js
 // TODO: declare uma constante e tente reatribuir seu valor para ver o erro
-````
+
+const cpf = "123.456.789-00";
+// cpf = "987.654.321-00"; // Isso causará erro!
+
+console.log(cpf);
+```
 
 </details>
 
@@ -54,9 +67,19 @@ Declare as seguintes variáveis e imprima seus tipos usando `typeof`:
 <details>
   <summary>Ver resposta</summary>
 
-````js
+```js
 // TODO: declare as variáveis e use console.log com typeof para imprimir os tipos
-````
+
+let nome = "Maria";
+let idade = 25;
+let altura = 1.68;
+let aprovado = true;
+
+console.log(typeof nome);     // string
+console.log(typeof idade);    // number
+console.log(typeof altura);   // number
+console.log(typeof aprovado); // boolean
+```
 
 </details>
 
@@ -71,9 +94,20 @@ Depois, escreva um código que mostre um exemplo para cada um.
 <details>
   <summary>Ver resposta</summary>
 
-````js
+```js
 // TODO: escreva código que exemplifique o uso de let e const
-````
+
+// let permite reatribuição
+let contador = 1;
+contador = 2;
+console.log(contador); // 2
+
+// const não permite reatribuição
+const pi = 3.14;
+// pi = 3.1415; // Isso geraria um erro
+
+console.log(pi);
+```
 
 </details>
 
@@ -90,9 +124,15 @@ Depois, atribua o valor `"mil novecentos e noventa e cinco"` a ela e observe o t
 <details>
   <summary>Ver resposta</summary>
 
-````js
+```js
 // TODO: declare e reatribua a variável, mostrando os tipos com typeof
-````
+
+let anoNascimento = 1995;
+console.log(typeof anoNascimento); // number
+
+anoNascimento = "mil novecentos e noventa e cinco";
+console.log(typeof anoNascimento); // string
+```
 
 </details>
 
