@@ -67,7 +67,7 @@ console.log(status); // 1
 
 ---
 
-## :melon: Exemplo 05: Diferença entre `null`e `undefined`
+## :melon: Exemplo 05: Diferença entre `null` e `undefined`
 
 ```js
 let produto;
