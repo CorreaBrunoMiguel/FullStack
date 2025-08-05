@@ -29,4 +29,8 @@ Cada fase é subdividida em aulas que contêm:
 
 ---
 
+## :warning: Importante
+
+Antes de começar recomendo ler [esse script](./executando_scripts_node.md) para um melhor entendimento dos conteúdos deste módulo.
+
 Boa jornada! Vamos programar! 🚀

@@ -1,5 +1,7 @@
 # Aula 01 – Introdução à lógica e ambiente JavaScript
 
+Antes de começar recomendo ler [esse script](../../executando_scripts_node.md) para um melhor entendimento dos conteúdos deste módulo.
+
 ## 1. O que é lógica de programação?
 
 Lógica de programação é o conjunto de passos e raciocínios que permitem resolver problemas através de algoritmos e código.  

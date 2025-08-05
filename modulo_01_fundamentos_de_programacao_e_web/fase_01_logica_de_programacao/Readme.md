@@ -13,4 +13,8 @@ Cada aula terá teoria, quizzes, exercícios e desafios para garantir o aprendiz
 
 ---
 
+## :warning: Importante
+
+Antes de começar recomendo ler [esse script](../executando_scripts_node.md) para um melhor entendimento dos conteúdos deste módulo.
+
 Vamos codar e praticar!
