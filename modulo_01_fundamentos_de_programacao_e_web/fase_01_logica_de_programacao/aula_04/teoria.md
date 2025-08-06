@@ -47,9 +47,9 @@ Usados para **aumentar ou diminuir valores** numéricos de forma rápida.
 
 ```js
 let x = 5;
-console.log(++x); // 5
+console.log(x++); // 5
 console.log(x); // 5
-console.log(x++); // 6
+console.log(++x); // 6
 ```
 
 ---
@@ -101,7 +101,7 @@ Utilizados para combinar ou inverter expressões booleanas.
 | false | true  | true     |
 | false | false | false    |
 
-**Exemplo Prático**
+Exemplo Prático
 
 ```js
 const idade = 20;
