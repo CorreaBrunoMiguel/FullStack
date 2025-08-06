@@ -1,5 +1,7 @@
 # Quiz Aula 03 - COnversão de Tipos e Coerção
 
+<!-- markdownlint-disable -->
+
 1. O que é conversão explícita em JavaScript?
 
 - [ ] Quando o JavaScript converte valores automaticamente para outro tipo.
@@ -89,7 +91,8 @@ console.log(Boolean(''));
 
 <details>
   <summary>Ver Resposta</summary>
-  [x] false
+
+[x] false
 
 **Explicação:** A string vazia `""` é considerada falsy e, portanto convertida para false pelo `Boolean()`
 
@@ -106,7 +109,8 @@ console.log(Boolean(''));
 
 <details>
   <summary>Ver Resposta</summary>
-  [x] Usando o operador `===` para comparação estrita
+
+[x] Usando o operador `===` para comparação estrita
 
 **Explicação:** O operador `===` compara valor e tipo, sem realizar coerção automática, evitando resultados inesperados.
 
