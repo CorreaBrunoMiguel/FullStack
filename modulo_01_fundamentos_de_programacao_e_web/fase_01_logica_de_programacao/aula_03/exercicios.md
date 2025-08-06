@@ -23,7 +23,7 @@ let idadeTexto = String(idade);
 console.log(typeof idadeTexto); // "string"
 ```
 
-> `String(idade) converte explicitamente o número para texto
+> `String(idade)` converte explicitamente o número para texto
 
 </details>
 
