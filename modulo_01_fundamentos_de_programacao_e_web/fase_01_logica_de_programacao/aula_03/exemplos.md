@@ -42,7 +42,7 @@ console.log(resultado); // 8
 console.log(typeof resultado); // number
 ```
 
-> :brain: Aqui, o operador `-` \*\*força a coerção da string "10" para número", e faz a operação normalmente.
+> :brain: Aqui, o operador `-` **força a coerção** da string "10" para número", e faz a operação normalmente.
 
 ---
 
@@ -54,7 +54,7 @@ console.log('5' - true); // 4
 console.log(true + false); // 1
 ```
 
-> :white_check_mark: `true` é tratado como 1 e false como 0quando coeridos para números.
+> :white_check_mark: `true` é tratado como 1 e false como 0 quando coeridos para números.
 > :warning: Mas com `+` e um string, tudo vira texto (ex: `"5" + true` -> `"5true"`)
 
 ---
