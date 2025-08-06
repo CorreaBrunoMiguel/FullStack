@@ -51,4 +51,7 @@ Preço: R$ 49.80
 
 - Use `Number()` para conversões
 - Use apenas os conteúdos ensinados até agora: variáveis, tipos primitivos, conversão de tipos
+- :dart: tente usar concatenação (soma de strings) para uma resposta mais detalhada `Preço R$49.80`, apenas o valor também é aceitável `49.80`
 - :rocket: pesquise método `toFixed()`, veja se consegue usar
+
+---
