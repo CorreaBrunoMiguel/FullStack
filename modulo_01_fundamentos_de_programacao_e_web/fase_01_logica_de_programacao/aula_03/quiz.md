@@ -34,9 +34,9 @@ console.log('5' + 10);
 <details>
   <summary>Ver Resposta</summary>
 
-[x] "510"
+> [x] "510"
 
-**Explicação:** O operador `+` concatena strings. Como um dos operadores é string, o número `10` é convertido para string e concatenado, formando "510".
+> **Explicação:** O operador `+` concatena strings. Como um dos operadores é string, o número `10` é convertido para string e concatenado, formando "510".
 
 </details>
 
@@ -52,9 +52,9 @@ console.log('5' + 10);
 <details>
   <summary>Ver Resposta</summary>
 
-[x] 0
+> [x] 0
 
-**Explicação:** O valor `0` é falsy, ou seja, avaliado como falso em contextos booleanos, diferentes das strings, que são truthy mesmo que contenham "false" ou "0". Apenas strings vazias "" são falsy neste contexto.
+> **Explicação:** O valor `0` é falsy, ou seja, avaliado como falso em contextos booleanos, diferentes das strings, que são truthy mesmo que contenham "false" ou "0". Apenas strings vazias "" são falsy neste contexto.
 
 </details>
 
@@ -70,9 +70,9 @@ console.log('5' + 10);
 <details>
   <summary>Ver Resposta</summary>
 
-[] Retorna true, pois ocorre coerção implícita convertendo a string em número.
+> [x] Retorna true, pois ocorre coerção implícita convertendo a string em número.
 
-**Explicação:** O operador == permite coerção de tipo, então "5" é convertido para número 5 antes da comparação.
+> **Explicação:** O operador == permite coerção de tipo, então "5" é convertido para número 5 antes da comparação.
 
 </details>
 
@@ -92,9 +92,9 @@ console.log(Boolean(''));
 <details>
   <summary>Ver Resposta</summary>
 
-[x] false
+> [x] false
 
-**Explicação:** A string vazia `""` é considerada falsy e, portanto convertida para false pelo `Boolean()`
+> **Explicação:** A string vazia `""` é considerada falsy e, portanto convertida para false pelo `Boolean()`
 
 </details>
 
@@ -110,9 +110,9 @@ console.log(Boolean(''));
 <details>
   <summary>Ver Resposta</summary>
 
-[x] Usando o operador `===` para comparação estrita
+> [x] Usando o operador `===` para comparação estrita
 
-**Explicação:** O operador `===` compara valor e tipo, sem realizar coerção automática, evitando resultados inesperados.
+> **Explicação:** O operador `===` compara valor e tipo, sem realizar coerção automática, evitando resultados inesperados.
 
 </details>
 
@@ -128,8 +128,8 @@ console.log(Boolean(''));
 <details>
   <summary>Ver Resposta</summary>
 
-[x]`isNaN()`
+> [x]`isNaN()`
 
-**Explicação:** A função `isNaN()` verifica se um valor é `NaN`, indicando uma conversão inválida para número.
+> **Explicação:** A função `isNaN()` verifica se um valor é `NaN`, indicando uma conversão inválida para número.
 
 </details>
