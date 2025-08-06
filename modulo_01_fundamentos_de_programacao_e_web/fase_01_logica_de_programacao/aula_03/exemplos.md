@@ -55,7 +55,8 @@ console.log(true + false); // 1
 ```
 
 > :white_check_mark: `true` é tratado como 1 e false como 0 quando coeridos para números.
-> :warning: Mas com `+` e um string, tudo vira texto (ex: `"5" + true` -> `"5true"`)
+
+:warning: Mas com `+` e um string, tudo vira texto (ex: `"5" + true` -> `"5true"`)
 
 ---
 
@@ -71,7 +72,7 @@ console.log(parseInt(valor2)); // 100
 console.log(parseInt('abc')); // NaN
 ```
 
-> :lupe: `parseInt` lê números inteiros no início da string, `parseFloat` lê com decimais. Se não encontrar nenhum número no início, retorna `NaN`.
+> :mag: `parseInt` lê números inteiros no início da string, `parseFloat` lê com decimais. Se não encontrar nenhum número no início, retorna `NaN`.
 
 ---
 
