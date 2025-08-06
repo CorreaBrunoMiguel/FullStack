@@ -70,13 +70,13 @@ console.log('5' + 10); // "510" - número é convertido para string e concatenad
 console.log('5' * 2); // 10 - string é convertida para número e multiplicado
 ```
 
-- Comparações com `==` (2 sinais `=`)
+- Comparações com `==`
 
 ```js
 console.log(5 == '5'); // true - o valor string é convertido para número antes da comparação
 ```
 
-Por isso, sempre prefira o operador de comparação estrita `===` (3 sinais de `=`), que compara valor e tipos sem coerção
+Por isso, sempre prefira o operador de comparação estrita `===`, que compara valor e tipos sem coerção
 
 ```js
 console.log(5 === '5'); // false
