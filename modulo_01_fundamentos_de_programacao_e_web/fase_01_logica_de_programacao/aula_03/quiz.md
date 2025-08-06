@@ -11,7 +11,7 @@
 <details>
   <summary>Ver Resposta</summary>
 
-```md
+```markdown
 - [x] Quando o programador força a conversão de tipos usando funções específicas.
 
 **Explicação:** Conversão explícita ocorre quando o programador usa funções como `String()`, `Number()` ou `Boolean()` para converter um valor de um tipo para outro.
