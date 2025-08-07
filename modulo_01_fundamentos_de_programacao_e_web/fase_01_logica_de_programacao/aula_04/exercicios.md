@@ -1,6 +1,8 @@
 # 🧪 Exercícios Práticos – Aula 04
 
-## **Operadores Aritméticos, Lógicos e Relacionais (sem condicionais)**
+<!-- markdownlint-disable -->
+
+## **Operadores Aritméticos, Lógicos e Relacionais**
 
 ---
 
@@ -11,12 +13,17 @@ Exiba os resultados das 4 operações básicas com dois números.
 ```js
 let x = 12;
 let y = 4;
+```
 
+<details>
+  <summary>Ver Resposta</summary>
+```js
 console.log('Soma:', x + y);
 console.log('Subtração:', x - y);
 console.log('Multiplicação:', x * y);
 console.log('Divisão:', x / y);
 ```
+</details>
 
 ---
 
