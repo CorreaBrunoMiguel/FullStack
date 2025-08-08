@@ -1,105 +1,132 @@
-📘 Executando Scripts JavaScript com Node.js
+# 📘 Executando Scripts JavaScript com Node.js
+
+Antes de escrever grandes aplicações, é essencial saber como **executar um script JavaScript** fora do navegador — diretamente no seu computador. Isso é feito usando o **Node.js**, uma poderosa ferramenta que permite rodar JavaScript no terminal.
+
+Este guia mostra como executar seus scripts `.js` de três formas:
+
+1. Via **terminal (prompt de comando / shell)**
+2. Via **Visual Studio Code (VS Code)**
+3. Usando o próprio **terminal embutido do VS Code**
 
 ---
 
-Sumário
+## ✅ Pré-requisitos
 
-1. Pré-requisitos
-2. Criando seu primeiro script
-3. Executando via Terminal (fora do VS Code)
-4. Executando dentro do VS Code
-5. Resumo dos Comandos
-6. Solução de Problemas
-
----
-
-✅ Pré-requisitos
-
-- Node.js instalado (versão recomendada LTS)  
-  https://nodejs.org/
-- Visual Studio Code instalado (recomendado)  
-  https://code.visualstudio.com/
-- Um arquivo `.js` criado no seu computador
+- [ ] Node.js instalado: [https://nodejs.org/](https://nodejs.org/)
+- [ ] Editor de código recomendado: [Visual Studio Code](https://code.visualstudio.com/)
+- [ ] Um arquivo `.js` criado no seu computador
 
 Para verificar se o Node.js está instalado, abra seu terminal e digite:
 
+```bash
 node -v
+```
 
 Se retornar algo como `v18.17.1`, está tudo certo!
 
 ---
 
-📝 Criando seu primeiro script
+## 📝 1. Criando seu primeiro script
 
-Crie um arquivo chamado `script.js` com o seguinte conteúdo:
+Crie um novo arquivo chamado `script.js` com o seguinte conteúdo:
 
+```javascript
 console.log('Olá, mundo! Este é meu primeiro script em Node.js!');
+```
 
 Salve o arquivo na pasta desejada.
 
 ---
 
-💻 Executando via Terminal (fora do VS Code)
+## 💻 2. Executando via terminal (fora do VS Code)
 
-1. Abra o Terminal (Prompt de Comando no Windows, Terminal no Linux/macOS).
-2. Navegue até a pasta do arquivo com o comando cd:
+1. Abra o terminal (Prompt de Comando no Windows, Terminal no Linux/Mac).
+2. Navegue até a pasta onde está o arquivo usando o comando `cd`:
 
-cd caminho/da/pasta
+   ```bash
+   cd caminho/da/pasta
+   ```
+
+   Exemplo no Windows:
+
+   ```bash
+   cd C:\Users\seu_usuario\Documentos\projetos
+   ```
+
+   Exemplo no Linux/macOS:
+
+   ```bash
+   cd ~/Documentos/projetos
+   ```
 
 3. Execute o script com:
 
-node script.js
+   ```bash
+   node script.js
+   ```
 
 Você verá no terminal:
 
+```txt
 Olá, mundo! Este é meu primeiro script em Node.js!
+```
 
 ---
 
-🧑‍💻 Executando dentro do VS Code
+## 🧠 Dica rápida: caminho da pasta
 
-1. Abra o VS Code.
-2. Abra a pasta do seu projeto pelo menu: File > Open Folder.
+Se estiver com o explorador de arquivos aberto, você pode:
+
+- **Windows:** digitar `cmd` na barra de endereço da pasta → abre o terminal direto ali.
+- **Linux/macOS:** clique com o botão direito e escolha "Abrir no terminal".
+
+---
+
+## 🧑‍💻 3. Executando dentro do VS Code
+
+1. Abra o **VS Code**.
+2. Vá em **File > Open Folder** e selecione a pasta do seu projeto.
 3. Abra o arquivo `script.js`.
-4. Recomendação: instale a extensão Code Runner para executar código com um clique.
-5. Clique com o botão direito no editor de código e escolha Run Code.
+4. Clique com o botão direito dentro do código e escolha **“Run Code”** _(requer a extensão "Code Runner")_.
 
-⚠️ Alternativa sem extensão
+### ⚠️ Alternativa (sem extensão)
 
-- Abra o terminal embutido pelo menu: Terminal > New Terminal ou atalho:
+Use o terminal embutido do VS Code:
 
-  - Windows/Linux: Ctrl + ` (tecla acima do Tab)
-  - macOS: Cmd + `
+- Vá em **Terminal > New Terminal** ou use o atalho:
 
-- Execute o script com:
+  - **Windows/Linux:** `Ctrl + \``
+  - **Mac:** `Cmd + \``
 
+- O terminal será aberto na parte inferior. Rode o script com:
+
+```bash
 node script.js
+```
 
 ---
 
-🧩 Resumo dos Comandos
+## 🧩 Resumo dos Comandos
 
-| Ação                            | Comando                     |
-| ------------------------------- | --------------------------- |
-| Verificar versão do Node.js     | node -v                     |
-| Executar um arquivo `.js`       | node nome-do-arquivo.js     |
-| Navegar até a pasta do script   | cd caminho/da/pasta         |
-| Abrir terminal embutido VS Code | Ctrl + ` ou Menu > Terminal |
-
----
-
-🛠️ Solução de Problemas
-
-- Erro: “node não é reconhecido”  
-  Reinicie o terminal ou o computador, ou reinstale o Node.js corretamente.
-
-- Erro de caminho:  
-  Verifique se está na pasta correta onde o script está salvo.
+| Ação                           | Comando                        |
+| ------------------------------ | ------------------------------ |
+| Verificar versão do Node.js    | `node -v`                      |
+| Executar um arquivo `.js`      | `node nome-do-arquivo.js`      |
+| Navegar até a pasta do script  | `cd caminho/da/pasta`          |
+| Abrir terminal embutido VSCode | `Ctrl + \`` ou Menu > Terminal |
 
 ---
 
-🚀 Pronto para o próximo passo?
+## 🛠️ Solução de Problemas
 
-Agora que você sabe como rodar seus scripts, podemos avançar para os conceitos da linguagem e criação de aplicações reais.
+- **Erro: “node não é reconhecido”**  
+  Isso significa que o Node.js não foi instalado corretamente ou o terminal não foi reiniciado. Tente reiniciar o computador ou reinstalar o Node.
+
+- **Erro de caminho:**  
+  Verifique se você está **na pasta correta** onde o script foi salvo.
 
 ---
+
+## 🚀 Pronto para o próximo passo?
+
+Agora que você sabe como rodar seus scripts, podemos avançar com os conceitos da linguagem e a criação de aplicações reais.
