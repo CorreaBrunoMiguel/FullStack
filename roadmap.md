@@ -6,7 +6,7 @@ Este é o roadmap oficial da jornada FullStack de Bruno Miguel Corrêa, guiada e
 
 ## 📦 Módulo 01: Fundamentos de Programação e Web
 
-> 📌 **Observação:** Todas as aulas da Fase 01 serão ensinadas diretamente em **JavaScript moderno**, com foco na prática profissional desde o início.
+> 📌 Observação: Todas as aulas da Fase 01 são ensinadas diretamente em JavaScript moderno, com foco na prática profissional desde o início.
 
 ### 🧠 Fase 01 – Lógica de Programação (com JavaScript)
 
@@ -20,28 +20,17 @@ Este é o roadmap oficial da jornada FullStack de Bruno Miguel Corrêa, guiada e
 - [ ] Aula 08 – Funções modernas (arrow, anônimas, parâmetros padrão)
 - [ ] Aula 09 – Exercícios integradores e revisão
 
-### 🧠 Fase 02 – Algoritmos e Pseudocódigo
+### Conteúdos Opcionais para Aprofundamento (Fase 01)
 
-- [ ] Aula 01 – O que é um algoritmo
-- [ ] Aula 02 – Entradas, saídas e fluxogramas
-- [ ] Aula 03 – Pseudocódigo básico
-- [ ] Aula 04 – Lógica de resolução de problemas simples
-- [ ] Aula 05 – Exercícios aplicados
+Ao final da Fase 01, os seguintes temas podem ser explorados como aprofundamento, caso o aluno tenha interesse e desde que não estejam previstos nas fases seguintes:
 
-### 🧠 Fase 03 – Ambiente de Desenvolvimento
-
-- [ ] Aula 01 – Terminal e comandos básicos
-- [ ] Aula 02 – Estrutura de arquivos e organização de projetos
-- [ ] Aula 03 – VSCode, extensões e boas práticas iniciais
-- [ ] Aula 04 – Execução de código JavaScript no terminal
-
-### 🧠 Fase 04 – Git e GitHub
-
-- [ ] Aula 01 – Introdução ao Git: commit, status, log
-- [ ] Aula 02 – Branches, merge e conflitos
-- [ ] Aula 03 – Repositórios remotos e GitHub
-- [ ] Aula 04 – `.gitignore`, README, versionamento profissional
-- [ ] Aula 05 – Fluxo colaborativo com Pull Requests
+- Métodos de String importantes: `.split()`, `.charAt()`, `.toUpperCase()`, `.toLowerCase()`, `.trim()`
+- Propriedades de String e Array: `.length`, acesso por índice
+- Métodos básicos de Array: `.push()`, `.pop()`, `.shift()`, `.unshift()`, `.slice()`, `.splice()`
+- Entrada de dados no terminal com Node.js (uso de módulos `readline` e similares)
+- Conceitos básicos sobre tratamento de erros (try/catch)
+- Uso básico de console para depuração (`console.log`, `console.error`)
+- Noções iniciais de manipulação de datas com `Date`
 
 ---
 
@@ -235,7 +224,7 @@ Este é o roadmap oficial da jornada FullStack de Bruno Miguel Corrêa, guiada e
 
 ## ✅ Projetos Finais por Módulo
 
-- Ao final de cada módulo, um **projeto prático completo** será desenvolvido
-- Inspirado em **situações reais de mercado**
+- Ao final de cada módulo, um projeto prático completo será desenvolvido
+- Inspirado em situações reais de mercado
 - Checklist de requisitos funcionais
 - Foco em simulação de equipe e entrega profissional
