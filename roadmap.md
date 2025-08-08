@@ -14,7 +14,7 @@ Este é o roadmap oficial da jornada FullStack de Bruno Miguel Corrêa, guiada e
 - [x] Aula 02 – Variáveis (`let`, `const`) e tipos primitivos
 - [x] Aula 03 – Conversão de tipos e coerção
 - [x] Aula 04 – Operadores aritméticos, lógicos e relacionais
-- [ ] Aula 05 – Estruturas de controle (`if`, `else`, `switch`)
+- [x] Aula 05 – Estruturas de controle (`if`, `else`, `switch`)
 - [ ] Aula 06 – Laços de repetição (`for`, `while`, `do...while`)
 - [ ] Aula 07 – Funções e escopo
 - [ ] Aula 08 – Funções modernas (arrow, anônimas, parâmetros padrão)
