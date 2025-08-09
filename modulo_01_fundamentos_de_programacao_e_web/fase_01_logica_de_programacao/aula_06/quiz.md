@@ -93,3 +93,57 @@
 </details>
 
 ---
+
+6. No `for (let i = 0; i < 5; i++)`, qual parte é responsável por determinar quando o loop termina?
+
+- [ ] Inicialização (`let i = 0`)
+- [ ] Condição (`i < 5`)
+- [ ] Atualização (`i++`)
+- [ ] Corpo do loop
+
+<details>
+  <summary>Ver Resposta</summary>
+
+:white_mark_check: Condição (`i < 5`)
+
+:bulb: O loop só continua enquanto a condição for verdadeira; quando falsa, o loop termina.
+
+</details>
+
+---
+
+7. É obrigatório inicializar a variável de controle antes de um `while`?
+
+- [ ] Sim
+- [ ] Não
+- [ ] Depende do código
+- [ ] Somente em loops `for`
+
+<details>
+  <summary>Ver Resposta</summary>
+
+:white_mark_check: Sim
+
+:bulb: A variável deve ser inicializada para evitar loops infinitos e garantir que a condição seja avaliada corretamente.
+
+</details>
+
+---
+
+8. o que pode acontecer se esquecermos de atualizar a variável de controle dentro de um `while`?
+
+- [ ] O loop é executado uma vez
+- [ ] O loop termina imediatamente
+- [ ] O loop se torna infinito
+- [ ] O código gera erro de compilação
+
+<details>
+  <summary>Ver Resposta</summary>
+
+:white_mark_check: O loop se torna infinito
+
+:bulb: Sem atualizar a variável que altera a condição, o while nunca terá sua condição falsa, causando loop infinito.
+
+</details>
+
+---
