@@ -43,10 +43,7 @@ Antes de começar, recomendamos a leitura do [tutorial para execução de script
 
 ## Navegação Rápida
 
-- [Fase 01 – Lógica de Programação](./fase_01/README.md)
-- [Fase 02 – Algoritmos e Pseudocódigo](./fase_02/README.md)
-- [Fase 03 – Ambiente de Desenvolvimento](./fase_03/README.md)
-- [Fase 04 – Git e GitHub](./fase_04/README.md)
+- [Fase 01 – Lógica de Programação](./fase_01_logica_de_programacao/)
 
 ---
 
