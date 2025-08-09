@@ -54,7 +54,7 @@ Cada etapa de estudo segue uma estrutura padronizada:
 > - [x] Aula 03 – Conversão de tipos e coerção
 > - [x] Aula 04 – Operadores aritméticos, lógicos e relacionais
 > - [x] Aula 05 – Estruturas de controle (`if`, `else`, `switch`)
-> - [ ] Aula 06 – Laços de repetição (`for`, `while`, `do...while`)
+> - [x] Aula 06 – Laços de repetição (`for`, `while`, `do...while`)
 
 ---
 

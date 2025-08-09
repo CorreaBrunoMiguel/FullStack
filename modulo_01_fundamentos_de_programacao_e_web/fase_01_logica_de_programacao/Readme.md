@@ -39,25 +39,25 @@ Antes de iniciar, recomendamos fortemente a leitura do [guia de execução de sc
 
 ## Navegação Rápida
 
-- [Aula 01 – Introdução à lógica e ambiente JS](./f01-a01)
-- [Aula 02 – Variáveis (`let`, `const`) e tipos primitivos](./f01-a02)
-- [Aula 03 – Conversão de tipos e coerção](./f01-a03)
-- [Aula 04 – Operadores aritméticos, lógicos e relacionais](./f01-a04)
-- [Aula 05 – Estruturas de controle (`if`, `else`, `switch`)](./f01-a05)
-- [Aula 06 – Laços de repetição (`for`, `while`, `do...while`)](./f01-a06)
+- [Aula 01 – Introdução à lógica e ambiente JS](./aula_01/)
+- [Aula 02 – Variáveis (`let`, `const`) e tipos primitivos](./aula_02)
+- [Aula 03 – Conversão de tipos e coerção](./aula_03)
+- [Aula 04 – Operadores aritméticos, lógicos e relacionais](./aula_04)
+- [Aula 05 – Estruturas de controle (`if`, `else`, `switch`)](./aula_05)
+- [Aula 06 – Laços de repetição (`for`, `while`, `do...while`)](./aula_06)
 
 ---
 
 ## Status da Fase
 
-| Aula                             | Status       |
-| -------------------------------- | ------------ |
-| Aula 01 – Introdução à lógica    | Concluída    |
-| Aula 02 – Variáveis e tipos      | Concluída    |
-| Aula 03 – Conversão de tipos     | Concluída    |
-| Aula 04 – Operadores             | Concluída    |
-| Aula 05 – Estruturas de controle | Concluída    |
-| Aula 06 – Laços de repetição     | Em andamento |
+| Aula                             | Status    |
+| -------------------------------- | --------- |
+| Aula 01 – Introdução à lógica    | Concluída |
+| Aula 02 – Variáveis e tipos      | Concluída |
+| Aula 03 – Conversão de tipos     | Concluída |
+| Aula 04 – Operadores             | Concluída |
+| Aula 05 – Estruturas de controle | Concluída |
+| Aula 06 – Laços de repetição     | Concluída |
 
 ---
 
