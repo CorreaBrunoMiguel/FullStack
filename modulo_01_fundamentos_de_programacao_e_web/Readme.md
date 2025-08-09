@@ -2,7 +2,9 @@
 
 Este módulo tem como objetivo ensinar os conceitos essenciais da programação com foco em **JavaScript moderno**, preparando a base para o desenvolvimento FullStack.
 
-## Estrutura do módulo
+---
+
+## Estrutura do Módulo
 
 O módulo está dividido em quatro fases principais:
 
@@ -11,7 +13,9 @@ O módulo está dividido em quatro fases principais:
 - **Fase 03 – Ambiente de Desenvolvimento:** ferramentas essenciais para programação e execução do código.
 - **Fase 04 – Git e GitHub:** controle de versão profissional para organização de código.
 
-## Organização das aulas
+---
+
+## Organização das Aulas
 
 Cada fase é subdividida em aulas que contêm:
 
@@ -20,7 +24,9 @@ Cada fase é subdividida em aulas que contêm:
 3. **Exercícios práticos** – atividades para aplicar o conhecimento.
 4. **Desafio prático** – tarefa mais abrangente para consolidar o aprendizado.
 
-## Como usar este módulo
+---
+
+## Como Usar Este Módulo
 
 - Siga as aulas na ordem para garantir uma progressão natural.
 - Tire suas dúvidas antes de avançar para o próximo conteúdo.
@@ -32,6 +38,26 @@ Cada fase é subdividida em aulas que contêm:
 ## :warning: Importante
 
 Antes de começar, recomendamos a leitura do [tutorial para execução de scripts Node.js](./executando_scripts_node.md) para um melhor entendimento dos conteúdos deste módulo.
+
+---
+
+## Navegação Rápida
+
+- [Fase 01 – Lógica de Programação](./fase_01/README.md)
+- [Fase 02 – Algoritmos e Pseudocódigo](./fase_02/README.md)
+- [Fase 03 – Ambiente de Desenvolvimento](./fase_03/README.md)
+- [Fase 04 – Git e GitHub](./fase_04/README.md)
+
+---
+
+## Status do Módulo
+
+| Fase                                  | Progresso    |
+| ------------------------------------- | ------------ |
+| Fase 01 – Lógica de Programação       | Em andamento |
+| Fase 02 – Algoritmos e Pseudocódigo   | Pendente     |
+| Fase 03 – Ambiente de Desenvolvimento | Pendente     |
+| Fase 04 – Git e GitHub                | Pendente     |
 
 ---
 

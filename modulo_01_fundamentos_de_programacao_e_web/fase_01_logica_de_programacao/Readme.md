@@ -9,12 +9,16 @@ Nesta fase, vamos estudar os conceitos básicos de lógica utilizando **JavaScri
 - Laços de repetição (`for`, `while`, `do...while`)
 - Funções básicas e escopo
 
-Cada aula é composta por:
+---
 
-- **Teoria detalhada**, com explicações e exemplos práticos
-- **Quiz interativo** para fixação dos conceitos
-- **Exercícios práticos** com respostas comentadas
-- **Desafios reais** para aplicação dos conhecimentos
+## Estrutura das Aulas
+
+Cada aula desta fase contém:
+
+1. **Teoria detalhada**, com explicações e exemplos práticos.
+2. **Quiz interativo** para fixação dos conceitos.
+3. **Exercícios práticos** com respostas comentadas.
+4. **Desafios reais** para aplicação dos conhecimentos.
 
 ---
 
@@ -24,12 +28,36 @@ Antes de iniciar, recomendamos fortemente a leitura do [guia de execução de sc
 
 ---
 
-## 🚀 Dicas para aproveitar melhor esta fase
+## 🚀 Dicas para Aproveitar Melhor Esta Fase
 
-- Siga a ordem das aulas para um aprendizado progressivo.
-- Tire dúvidas e revise sempre que necessário.
-- Pratique os exercícios e tente resolver os desafios sem olhar as respostas.
-- Utilize o Git para versionar seu código desde o início.
+- Siga a ordem das aulas para garantir um aprendizado progressivo e consistente.
+- Tire dúvidas sempre que necessário e revise os conteúdos para fixar melhor.
+- Pratique bastante os exercícios e tente resolver os desafios sem consultar as respostas inicialmente.
+- Utilize o Git para versionar seu código desde o início, reforçando boas práticas profissionais.
+
+---
+
+## Navegação Rápida
+
+- [Aula 01 – Introdução à lógica e ambiente JS](./f01-a01)
+- [Aula 02 – Variáveis (`let`, `const`) e tipos primitivos](./f01-a02)
+- [Aula 03 – Conversão de tipos e coerção](./f01-a03)
+- [Aula 04 – Operadores aritméticos, lógicos e relacionais](./f01-a04)
+- [Aula 05 – Estruturas de controle (`if`, `else`, `switch`)](./f01-a05)
+- [Aula 06 – Laços de repetição (`for`, `while`, `do...while`)](./f01-a06)
+
+---
+
+## Status da Fase
+
+| Aula                             | Status       |
+| -------------------------------- | ------------ |
+| Aula 01 – Introdução à lógica    | Concluída    |
+| Aula 02 – Variáveis e tipos      | Concluída    |
+| Aula 03 – Conversão de tipos     | Concluída    |
+| Aula 04 – Operadores             | Concluída    |
+| Aula 05 – Estruturas de controle | Concluída    |
+| Aula 06 – Laços de repetição     | Em andamento |
 
 ---
 
