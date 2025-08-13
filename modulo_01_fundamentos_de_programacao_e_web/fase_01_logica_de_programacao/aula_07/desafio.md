@@ -22,10 +22,10 @@ Crie um programa em JavaScript que ajude uma pessoa a calcular o saldo do seu or
 
 3. O fluxo do programa deve:
 
-- Definir o nome do usuário e o saldo inicial.
-- Adicionar pelo menos 2 receita.
-- Registrar pelo menos duas despesas.
-- Exibir o saldo final e o resumo
+   - Definir o nome do usuário e o saldo inicial.
+   - Adicionar pelo menos 2 receita.
+   - Registrar pelo menos duas despesas.
+   - Exibir o saldo final e o resumo
 
 ---
 
